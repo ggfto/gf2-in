@@ -22,4 +22,5 @@ function loadInfo(data) {
     $("#sub-title").text(data.subTitle);
     $("#bio").html(data.bio);
     $("#profile-img").attr("src", data.pic);
+    $("html").css({"backgroundImage": `url("${data.bg}")`});
 }

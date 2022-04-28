@@ -2,7 +2,8 @@ info = {
     title: "Gabriel Guimaraes",
     subTitle: "@ggfto",
     bio: "Desenvolvedor Backend Java",
-    pic: "img/profile.jpg"
+    pic: "img/profile.jpg",
+    bg: "img/bg.png"
 }
 
 links = [
